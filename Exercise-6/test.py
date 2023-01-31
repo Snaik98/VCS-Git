@@ -1,1 +1,3 @@
-print("hello")
+i =0
+
+print(i)
