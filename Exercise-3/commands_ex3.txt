@@ -1,0 +1,5 @@
+git add index.html
+git commit -m "adding index.html"
+git add about.html
+git commit --amend "Adding index.html and about.html"
+git push
