@@ -1,0 +1,6 @@
+Performed soft reset on test1.py
+- committed test1.py with a single line of code
+- committed test2.py with a second line 
+- soft reset to to the first commit keeping the second commit in staging area using command
+ git reset --soft <commit id>
+- View the png to see the output of git status
