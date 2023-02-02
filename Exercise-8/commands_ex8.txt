@@ -6,3 +6,4 @@ git checkout my-feature -to switch to this branch
 git add about-us.html -on my-feature branch
 git commit -m "added about-us.html"  -on my-feature branch
 git checkout main - to switch to main branch
+git merge my-feature - to merge on my-feature on main
