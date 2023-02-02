@@ -1,0 +1,8 @@
+git add index.html -- on main branch
+git commit -m "added index.html" --on main
+git branch --to check existing branches
+git branch my-feature -to create new branch
+git checkout my-feature -to switch to this branch
+git add about-us.html -on my-feature branch
+git commit -m "added about-us.html"  -on my-feature branch
+git checkout main - to switch to main branch
