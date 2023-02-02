@@ -1,0 +1,6 @@
+Performed git reset hard on test2.py
+- 1st commit to create test2.py with a single line of code"
+- 2nd commit added a line to test2.py
+- did a hard reset to first commit, this removed any changes present in the staging area
+- used command 'git reset --hard <commit-id>
+- view git-reset-hard image to find thge git status output after hard reset
